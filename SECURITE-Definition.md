@@ -192,7 +192,7 @@ Le Plan de continuité informatique (PCI) décrit les moyens et procédures perm
 Le PCI constitue généralement le volet informatique du Plan de continuité d’activité (PCA), qui concerne plus largement les activités de l’organisation. (cnpp.com)
 À noter : selon le contexte, PCI peut désigner autre chose. Ici, il s’agit bien du Plan de continuité informatique.
 
-PCE - Payment Card Industry
+PCI - Payment Card Industry
 Dans le contexte des paiements, *Payment Card Industry* ; le sigle est souvent employé par raccourci pour les exigences PCI DSS (*Payment Card Industry Data Security Standard*), référentiel de sécurité des données de cartes de paiement. PCI DSS est une norme du secteur administrée par le PCI Security Standards Council, non une norme ISO ni une loi. Dans un autre contexte, PCI peut avoir d’autres significations : expliciter le sens est recommandé.
 
   
