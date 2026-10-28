@@ -4,6 +4,8 @@
   
 
 Définitions synthétiques pour un contexte général de cybersécurité et de protection des données. Certains sigles ont plusieurs sens selon le domaine ; les sens privilégiés ici sont précisés dans les entrées concernées.
+
+- A - 
 ## ACTIF
 
 Élément ayant de la valeur pour une organisation et devant être protégé : information, service, application, équipement, infrastructure, compétence ou processus. Dans une analyse de risques, on identifie notamment ce qui est essentiel, ses dépendances et les conséquences d’une atteinte.
@@ -32,7 +34,7 @@ Agence nationale de la sécurité des systèmes d’information, autorité fran�
 
 Examen méthodique, indépendant et fondé sur des éléments vérifiables, destiné à évaluer la conformité, l’efficacité ou la maîtrise d’un périmètre au regard de critères définis. Un audit relève des constats et écarts ; il ne constitue pas, à lui seul, une certification ni une garantie d’absence de risque.
 
-  
+- C -   
 
 ## Certification
 
@@ -63,6 +65,7 @@ Commission nationale de l’informatique et des libertés. Autorité française 
 Situation grave ou évolutive menaçant les activités, les personnes, les actifs ou la réputation de l’organisation et nécessitant une coordination et des décisions exceptionnelles. Une crise peut découler d’un incident cyber, mais un incident ne devient pas automatiquement une crise.
 
   
+- D - 
 
 ## DICP
 
@@ -80,13 +83,13 @@ Toute information se rapportant à une personne physique identifiée ou identifi
 
 *Data Protection Officer*, ou délégué à la protection des données (DPD) en français. Personne désignée pour informer et conseiller l’organisme sur ses obligations de protection des données, contrôler leur respect et coopérer avec l’autorité de contrôle, dans les conditions prévues par le RGPD. Le DPO conseille et surveille ; la responsabilité de conformité demeure celle de l’organisme.
 
-  
+- E - 
 
 ## EBIOS RM
 
 Méthode d’analyse et de traitement des risques numériques publiée par l’ANSSI, dont le nom développe « Expression des Besoins et Identification des Objectifs de Sécurité – Risk Manager ». Elle articule une vision de l’écosystème et des sources de risque avec l’étude de scénarios stratégiques et opérationnels afin de définir des mesures adaptées.
 
-  
+- G -  
 
 ## Gestion des risques
 
@@ -98,13 +101,13 @@ Processus continu qui consiste à établir le contexte, identifier et évaluer l
 
 Gouvernance, risques et conformité (anglais *Governance, Risk and Compliance*). Ensemble de principes, rôles, processus et outils qui coordonnent les objectifs de gouvernance, la gestion des risques et le respect des obligations. Le sigle peut également désigner des solutions logicielles couvrant ces activités.
 
-  
+- H - 
 
 ## HDS
 
 Hébergeur de données de santé à caractère personnel. En France, l’hébergement de certaines données de santé pour le compte de tiers est encadré par le Code de la santé publique et doit être réalisé par un hébergeur certifié HDS dans les cas prévus. La certification HDS porte sur des activités et un périmètre définis ; elle ne signifie pas que toute donnée de santé hébergée est automatiquement conforme à toutes les obligations.
 
-  
+- I - 
 
 ## IEC
 
@@ -146,37 +149,37 @@ Norme de lignes directrices pour la gestion des risques liés à la sécurité d
 
 Référentiel de bonnes pratiques de gestion des services informatiques, développé et maintenu sous forme de publications et de cadre de compétences. ITIL traite notamment de la valeur des services, des pratiques de gestion et de l’amélioration continue. Ce n’est ni une norme de cybersécurité ni, en soi, une certification d’organisation.
 
-  
+- L - 
 
 ## LPM
 
 Loi de programmation militaire. En France, les dispositions relatives à la sécurité des systèmes d’information des opérateurs d’importance vitale (OIV) figurent notamment dans le Code de la défense, issu des lois de programmation militaire successives. Dans un document, préciser si « LPM » désigne la loi ou, par extension, les exigences qui en découlent.
 
-  
+- M - 
 
 ## MENACE
 
 Cause potentielle d’un incident susceptible de porter atteinte à un actif ou à une organisation. Elle peut être intentionnelle (par exemple un acteur malveillant), accidentelle ou liée à un événement environnemental. Une menace n’est pas à elle seule un risque : le risque dépend aussi des vulnérabilités, des scénarios, des conséquences et des mesures en place.
 
-  
+- M - 
 
 ## MESURE DE SECURITE
 
 Moyen organisationnel, humain, physique ou technique visant à modifier un risque : le prévenir, le détecter, le contenir, en limiter les conséquences ou en faciliter le rétablissement. Le choix d’une mesure doit être proportionné aux besoins et aux risques, et son efficacité vérifiée dans le temps.
 
-  
+- N - 
 
 ## NIS2
 
 Directive (UE) 2022/2555 concernant des mesures destinées à assurer un niveau élevé commun de cybersécurité dans l’Union européenne. Elle renforce les exigences de gestion des risques et de notification des incidents pour des entités essentielles et importantes dans les secteurs concernés. Les obligations applicables dépendent de la transposition nationale, du secteur et de la situation de l’entité ; le sigle ne désigne pas une certification.
 
-  
+- O - 
 
 ## OIV
 
 Opérateur d’importance vitale, catégorie française d’opérateurs dont les activités sont essentielles au fonctionnement de la Nation et à la satisfaction de besoins vitaux. Les OIV sont soumis à des obligations particulières de sécurité des systèmes d’information, sous le régime prévu notamment par le Code de la défense. Le statut d’OIV est attribué selon le cadre légal et n’est pas synonyme d’entreprise simplement importante.
 
-  
+- P - 
 
 ## PCA
 
@@ -224,7 +227,7 @@ Sigle non uniformisé. Dans certains environnements francophones, il signifie «
 
 Politique de sécurité des systèmes d’information : cadre formalisé qui traduit les objectifs et exigences de sécurité de l’organisation en principes, responsabilités et règles. Elle est approuvée par l’autorité compétente, communiquée aux personnes concernées et revue périodiquement. Elle peut être déclinée en politiques thématiques et procédures.
 
-  
+- Q - 
 
 ## Qualification
 
@@ -236,7 +239,7 @@ Dans le contexte français de cybersécurité, reconnaissance délivrée par l�
 
 Aptitude d’un produit, service ou processus à satisfaire des exigences et besoins établis. En sécurité, la qualité contribue à la fiabilité et à la maîtrise des processus, mais une bonne qualité générale ne prouve pas à elle seule la sécurité. À distinguer d’une certification, qui atteste la conformité à un référentiel donné.
 
-  
+- R - 
 
 ## RISQUE
 
@@ -254,7 +257,7 @@ Règlement général sur la protection des données (règlement (UE) 2016/679), 
 
 Responsable de la sécurité des systèmes d’information. Fonction chargée de piloter ou coordonner la sécurité des SI : stratégie, politiques, gestion des risques, sensibilisation, suivi des mesures et réponse aux incidents, selon l’organisation. Les responsabilités exactes varient ; le RSSI ne se substitue pas automatiquement à la direction, aux métiers ou au responsable de traitement.
 
-  
+- S - 
 
 ## SecNumCloud
 
