@@ -187,7 +187,7 @@ Plan de continuité d’activité : dispositions préparées pour maintenir ou r
   
 
 ## PCI
-PCI — Plan de continuité informatique
+PCI — Plan de continuité informatique.
 Le Plan de continuité informatique (PCI) décrit les moyens et procédures permettant de maintenir, éventuellement en mode dégradé, les services informatiques essentiels lorsqu’un incident perturbe le système d’information. Il prévoit notamment les ressources, les solutions de secours et les actions nécessaires pour préserver les services critiques.
 Le PCI constitue généralement le volet informatique du Plan de continuité d’activité (PCA), qui concerne plus largement les activités de l’organisation. (cnpp.com)
 À noter : selon le contexte, PCI peut désigner autre chose. Ici, il s’agit bien du Plan de continuité informatique.
